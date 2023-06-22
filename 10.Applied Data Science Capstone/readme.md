@@ -59,6 +59,6 @@ This project follows these steps:
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/verify/8DTER4DBQU7A"><img src="https://user-images.githubusercontent.com/84391594/161432000-ba6916f0-6f5e-49ab-9ff3-fae4f6f18596.png" height="420"></a>
+  <a href="https://coursera.org/verify/8DTER4DBQU7A"><img src="https://github.com/Giflin/IBM-data-science-professional-certificate/blob/master/10.Applied%20Data%20Science%20Capstone/Coursera%208DTER4DBQU7A%20APPLIED%20DATA%20SCIENCE-1.png" height="420"></a>
   <a href="https://www.credly.com/earner/earned/badge/62332e50-7b68-4041-9c3e-36bcc96c582d"><img src="https://user-images.githubusercontent.com/84391594/161431807-63db38f1-2203-4383-aa6e-ad8b6e42ee55.png" height="420"></a>
 </p>
