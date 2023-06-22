@@ -1,6 +1,6 @@
 # Applied Data Science Capstone
 <p align="center">
-  <img src="Images/TitlePage.png" width="1200">
+  <img src="https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="1200">
 </p>
 
 ## 📄 Summary
