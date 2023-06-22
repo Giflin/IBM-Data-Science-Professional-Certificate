@@ -15,6 +15,6 @@ This course introduces data science methodologies, including the IBM Foundationa
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/verify/9KCU6P9KEB2H"><img src="https://user-images.githubusercontent.com/84391594/152699269-eca4a564-3720-43cb-99a3-8199c324dab7.png" height="430"></a>
+  <a href="https://coursera.org/verify/9KCU6P9KEB2H"><img src="https://github.com/Giflin/IBM-data-science-professional-certificate/blob/master/03.Data%20Science%20Methodology/Coursera%209KCU6P9KEB2H%20data%20science%20methodologies-1.png"></a>
   <a href="https://www.credly.com/badges/185e9fdf-2960-4181-add3-1cc991446497/public_url"><img src="https://user-images.githubusercontent.com/84391594/152699417-d59be44f-f459-4bda-b385-615d07f8ec47.png" height="430"></a>
 </p>
