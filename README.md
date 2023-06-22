@@ -2,7 +2,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/Giflin/IBM-Data-Science-Professional-Certificate?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/Giflin/IBM-Data-Science-Professional-Certificate?style=flat)
 
-[![Header](https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png)](https://www.coursera.org/professional-certificates/ibm-data-science)
+[![Header](https://gisgeography.com/wp-content/uploads/2022/05/IBM-Data-Science-Professional-Certificate-Feature.png)](https://www.coursera.org/professional-certificates/ibm-data-science)
 
 
 ## 📄 About
@@ -48,13 +48,13 @@ The following Python libraries were used throughout the certification: <br>
 </p>
 
 ## 📂 Projects
-- [Extracting and Visualizing Stock Data]
-- [Chicago Census, Crime, and School Data Analysis using SQL]
-- [House Price Predictions]
-- [US Domestic Airline Flights Performance Dashboard]
-- [Best Classifier Model]
-- [Predicting Successful Rocket Landings]
-- [Dashboard and Interactive Map]
+- Extracting and Visualizing Stock Data
+- Chicago Census, Crime, and School Data Analysis using SQL
+- House Price Predictions
+- US Domestic Airline Flights Performance Dashboard
+- Best Classifier Model
+- Predicting Successful Rocket Landings
+- Dashboard and Interactive Map
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
