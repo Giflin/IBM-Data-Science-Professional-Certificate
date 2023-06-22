@@ -1,5 +1,5 @@
 ![ViewCount](https://views.whatilearened.today/views/github/Giflin/IBM-Data-Science-Professional-Certification.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/Giflin/IBM-data-cience-Professional-Certificate?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/Giflin/IBM-Data-Science-Professional-Certificate?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/Giflin/IBM-Data-Science-Professional-Certificate?style=flat)
 
 [![Header](https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png)](https://www.coursera.org/professional-certificates/ibm-data-science)
@@ -63,4 +63,4 @@ To verify the certificates, click the images to follow the links.
   <a href="https://coursera.org/verify/professional-cert/7H52PPTPH9KX"><img src="https://github.com/Giflin/IBM-Data-Science-Professional-Certificate/blob/master/Coursera%207H52PPTPH9KX%20IBM%20DATA%20SCIENCE%20PROFESSIONAL%20CERTIFICATE-1.png" height="400"></a>
   
 
-# IBM-data-science-professional-certificate
+
