@@ -55,6 +55,6 @@ The purpose of this course is to introduce relational database concepts and to l
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/verify/2593AYHQVJK6"><img src="https://user-images.githubusercontent.com/84391594/152701418-389224a8-ff8b-42e4-b557-7c6643bfa0d5.png" height="430"></a>
+  <a href="https://coursera.org/verify/2593AYHQVJK6"><img src="https://github.com/Giflin/IBM-data-science-professional-certificate/blob/master/06.Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/Coursera%202593AYHQVJK6%20SQL%20DATABASES-1.png" height="430"></a>
   
 </p>
