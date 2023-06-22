@@ -21,6 +21,6 @@ This course teaches how to present and visualize complex data in a manner that m
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/verify/N38PFFX8KK43"><img src="https://user-images.githubusercontent.com/84391594/152701650-3c73b517-a6ea-4926-aafb-851e45543d90.png" height="430"></a>
+  <a href="https://coursera.org/verify/N38PFFX8KK43"><img src="https://github.com/Giflin/IBM-data-science-professional-certificate/blob/master/08.Data%20Visualization%20with%20Python/Coursera%20N38PFFX8KK43%20data%20visualization-1.png" height="430"></a>
   <a href="https://www.credly.com/badges/4c0e83b0-bf31-4260-b82b-b1b4b44a81b9/public_url"><img src="https://user-images.githubusercontent.com/84391594/152701606-b83fee28-12d1-4fe4-9618-d552f8adcb11.png" height="430"></a>
 </p>
