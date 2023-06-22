@@ -41,6 +41,6 @@ This course involves using Python to explore many different types of data. It co
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/verify/U5NDCX62383G"><img src="https://user-images.githubusercontent.com/84391594/152701547-05a52204-0358-4c0a-bbde-e2943715e945.png" height="430"></a>
+  <a href="https://coursera.org/verify/U5NDCX62383G"><img src="https://github.com/Giflin/IBM-data-science-professional-certificate/blob/master/07.Data%20Analysis%20with%20Python/Coursera%20U5NDCX62383G%20data%20analysis-1.png" height="430"></a>
   <a href="https://www.credly.com/badges/98c42878-d986-4c7b-bf05-91842b36da66/public_url"><img src="https://user-images.githubusercontent.com/84391594/152701477-667b4c2e-1cac-43c4-bf0e-bef3d8657ff2.png" height="430"></a>
 </p>
